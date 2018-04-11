@@ -1,2 +1,2 @@
 # demo-project
-Learning Gti and GitHub
+Learning Git and GitHub
